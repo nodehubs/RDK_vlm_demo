@@ -1,0 +1,7 @@
+struct vlm_dog
+{
+  int64_t mode;
+  float velocity_x;
+  float velocity_y;
+  float omega_z;
+}
