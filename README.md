@@ -80,9 +80,6 @@
   ```bash
   python vlm_demo/doggy.py
 
-### 3.4 程序运行效果
-
-
 ## 4. 特别鸣谢
 - 本项目是基于同济子豪兄的具身智能机械臂进一步开发的，特别感谢哔哩哔哩Up主同济子豪兄的开源项目：
 - 开源代码：https://github.com/TommyZihao/vlm_arm
