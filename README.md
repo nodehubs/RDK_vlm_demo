@@ -79,6 +79,9 @@
 - 启动大模型程序
   ```bash
   python vlm_demo/doggy.py
+  
+### 3.4 效果展示
+本项目效果展示见哔哩哔哩视频：https://www.bilibili.com/video/BV1HsexeHETX/?spm_id_from=333.999.0.0&vd_source=4bfff5ac9a1ffa49a122fe82b1f1d682
 
 ## 4. 特别鸣谢
 - 本项目是基于地瓜RDK_X3平台发开，特别感谢地瓜机器人团队的支持，期待做出更多有趣开源的项目；
