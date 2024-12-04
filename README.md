@@ -81,6 +81,7 @@
   python vlm_demo/doggy.py
 
 ## 4. 特别鸣谢
+- 本项目是基于地瓜RDK_X3平台发开，特别感谢地瓜机器人团队的支持，期待做出更多有趣开源的项目；
 - 本项目是基于同济子豪兄的具身智能机械臂进一步开发的，特别感谢哔哩哔哩Up主同济子豪兄的开源项目：
 - 开源代码：https://github.com/TommyZihao/vlm_arm
 - 亚马逊云科技生成式AI平台Amazon Bedrock：https://aws.amazon.com/cn/bedrock
