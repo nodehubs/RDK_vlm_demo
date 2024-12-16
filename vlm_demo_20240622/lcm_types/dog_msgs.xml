@@ -1,0 +1,9 @@
+<lcm>
+  <package name='dog_llm'>
+    <struct name='dogMsgType'>
+      <field name='mode' type='int8' default='0'/>
+      <field name='velocity_x' type='float' default='0'/>
+      <field name='velocity_y' type='float' default='0'/>
+    </struct>
+  </package>
+</lcm>
